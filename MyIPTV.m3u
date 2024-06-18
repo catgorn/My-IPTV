@@ -112,14 +112,15 @@ http://192.168.2.1:6688/udp/239.77.0.165:5146
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-id="17" tvg-name="CCTV17" group-title="央视",CCTV-17农村农业
 http://192.168.2.1:6688/udp/239.77.0.198:5146
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-id="106" tvg-name="CCTV4K" group-title="数字付费",CCTV4K
-http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+http://192.168.2.1:6688/udp/239.77.1.180:5146
 #EXTINF:-1 tvg-id="CCTV-8K" tvg-name="CCTV-8K" tvg-logo="https://live.fanmingming.com/tv/CCTV-8K.png" group-title="央视频道",CCTV-8K
 https://tv.cry33.com/ys4k.php?id=8k
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" tvg-id="27" tvg-name="湖南卫视" group-title="央视",湖南卫视
-http://192.168.2.1:1111/21.ts
+http://192.168.2.1:6688/udp/239.77.0.127:5146
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" tvg-id="28" tvg-name="浙江卫视" group-title="卫视",浙江卫视
-http://192.168.2.1:1111/22.ts
+http://192.168.2.1:6688/udp/239.77.0.89:5146
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" tvg-id="29" tvg-name="江苏卫视" group-title="卫视",江苏卫视
+http://192.168.2.1:6688/udp/239.77.0.90:5146
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" tvg-id="6245" tvg-name="CHC动作电影" group-title="数字付费",CHC动作电影
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" tvg-id="6246" tvg-name="CHC家庭电影" group-title="数字付费",CHC家庭电影
@@ -127,10 +128,10 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" tvg-id="6241" tvg-name="CHC高清电影" group-title="数字付费",CHC高清电影
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-name="美亞電影台[HK]" tvg-id="368348" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722194138918890_62.png" group-title="電影",美亚电影
-
-#EXTINF:-1 tvg-name="NOW 星影臺" tvg-id="10983" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171857306359_61.png" group-title="電影",NOW 星影
+https://epg.pw/stream/501c95bf64cae1b52c33559f14762620db25ea990992c2bb00afa8e15f7f9e07.m3u8
+#EXTINF:-1 tvg-name="NOW 爆谷臺" tvg-id="10983" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171857306359_61.png" group-title="電影",NOW 爆谷
 https://stream.freetv.fun/nowxing-ying-1.ctv
-#EXTINF:-1 tvg-name="NOW 星影臺" tvg-id="10983" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171857306359_61.png" group-title="電影",NOW 爆谷
+#EXTINF:-1 tvg-name="NOW 爆谷臺" tvg-id="10983" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171857306359_61.png" group-title="電影",NOW 爆谷
 https://stream.freetv.fun/now-bao-gu-1.ctv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eurosport.png" tvg-id="7215" tvg-name="EUROSPORT" group-title="港澳及国外",EUROSPORT
 https://epg.pw/stream/432a11dd348b5d0bd040c8ed51dfda954baad2609c241b7ac467054dc6eb2ccb.
