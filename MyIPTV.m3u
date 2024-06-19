@@ -46,14 +46,17 @@ https://stream.freetv.fun/ao-shi-ao-men-4.ctv
 https://stream.freetv.fun/ao-men-zi-xun-5.ctv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" tvg-id="6090" tvg-name="纬来体育台" group-title="台湾",纬来体育台
 rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 tvg-name="ELTA體育1" tvg-id="368589" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719113512627982_77.png" group-title="運動",elta 体育-1
 https://stream.freetv.fun/elta-ti-yu--1-2.ctv
+#EXTINF:-1 tvg-name="ELTA體育2" tvg-id="368590" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719113626909867_79.png" group-title="運動",elta 体育-2
 https://stream.freetv.fun/elta-ti-yu--2-2.ctv
+#EXTINF:-1 tvg-name="ELTA體育3" tvg-id="368591" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719113544608832_44.png" group-title="運動",elta 体育-3
 https://stream.freetv.fun/elta-ti-yu--3-2.ctv
 #EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv112_mobile.png" tvg-id="828" tvg-name="天映经典" group-title="港澳及国外",天映经典频道
 #EXTINF:-1 tvg-name="環球電視臺" tvg-id="11040" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318090803853591_56.png" group-title="新聞",环球电视台
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-id="D06" tvg-name="东森新闻台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ebc.png" group-title="国际",东森新闻台
-http://livetv.skycf.eu.org/live.m3u8?c=14
+https://stream.freetv.fun/dong-sen-xin-wen-2.ctv
 #EXTINF:-1 tvg-id="D06" tvg-name="中天新闻台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/cti.png" group-title="国际",中天新闻台
 http://livetv.skycf.eu.org/live.m3u8?c=7
 #EXTINF:-1 tvg-name="中天亞洲" tvg-id="11088" tvg-country="台灣" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711215559259916_97.png" group-title="綜合",中天亚洲台
@@ -73,7 +76,7 @@ http://livetv.skycf.eu.org/live.m3u8?c=10
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" tvg-id="6071" tvg-name="民视新闻台" group-title="台湾",民视新闻台
 http://livetv.skycf.eu.org/live.m3u8?c=11
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" tvg-id="6072" tvg-name="三立新闻台" group-title="台湾",三立新闻台
-http://livetv.skycf.eu.org/live.m3u8?c=12
+https://stream.freetv.fun/san-li-xin-wen--plus-1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" tvg-id="6030" tvg-name="华视" group-title="台湾",华视
 http://livetv.skycf.eu.org/live.m3u8?c=13
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" tvg-id="6075" tvg-name="东森财经新闻台" group-title="台湾",东森财经新闻台
@@ -140,7 +143,8 @@ https://epg.pw/stream/501c95bf64cae1b52c33559f14762620db25ea990992c2bb00afa8e15f
 https://stream.freetv.fun/nowxing-ying-1.ctv
 #EXTINF:-1 tvg-name="NOW 爆谷臺" tvg-id="10983" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171857306359_61.png" group-title="電影",NOW 爆谷
 https://stream.freetv.fun/now-bao-gu-1.ctv
-英叔,https://epg.pw/stream/30259fe0c62a1df39306558bc708c149f09092ea7dd815bf49fd3ad3bc6d73be.ctv
+#EXTINF:-1 tvg-name="林正英" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525050911565808_71.png" group-title="Movies",林正英
+https://epg.pw/stream/30259fe0c62a1df39306558bc708c149f09092ea7dd815bf49fd3ad3bc6d73be.ctv
 周星驰粤语,https://epg.pw/stream/ac9ef71b361a6e3ba6a5cf6b926b37a88fd0e216bbf540ddacef7d986f05dbfb.ctv
 粤语電影臺,https://epg.pw/stream/736d317cbb9b208a3ac9a137d216abdd8bd493b49b2199f5943db224c14994f9.ctv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eurosport.png" tvg-id="7215" tvg-name="EUROSPORT" group-title="港澳及国外",EUROSPORT
