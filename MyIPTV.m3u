@@ -46,6 +46,9 @@ https://stream.freetv.fun/ao-shi-ao-men-4.ctv
 https://stream.freetv.fun/ao-men-zi-xun-5.ctv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" tvg-id="6090" tvg-name="纬来体育台" group-title="台湾",纬来体育台
 rtmp://f13h.mine.nu/sat/tv721
+https://stream.freetv.fun/elta-ti-yu--1-2.ctv
+https://stream.freetv.fun/elta-ti-yu--2-2.ctv
+https://stream.freetv.fun/elta-ti-yu--3-2.ctv
 #EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv112_mobile.png" tvg-id="828" tvg-name="天映经典" group-title="港澳及国外",天映经典频道
 #EXTINF:-1 tvg-name="環球電視臺" tvg-id="11040" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318090803853591_56.png" group-title="新聞",环球电视台
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
