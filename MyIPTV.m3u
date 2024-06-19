@@ -1,8 +1,8 @@
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" tvg-id="7125" tvg-name="珠江频道" group-title="地方台",珠江频道
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" tvg-id="7125" tvg-name="珠江频道" group-title="地方台",广东珠江频道
 http://192.168.2.1:6688/udp/239.77.0.1:5146
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" tvg-id="6013" tvg-name="广东体育" group-title="地方台",广东体育频道
 http://192.168.2.1:6688/rtp/239.77.0.168:5146
-#EXTINF:-1 tvg-name="TVB翡翠" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173109065303_59.png" group-title="綜合",翡翠台 4k
+#EXTINF:-1 tvg-name="TVB翡翠" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173109065303_59.png" group-title="綜合",TVB翡翠台4k
 https://stream.freetv.fun/tvbfei-cui-tai-1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="港澳及国外",翡翠台
 http://bziyunshao.synology.me:8889/bysid/1
@@ -10,17 +10,19 @@ http://bziyunshao.synology.me:8889/bysid/1
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" tvg-id="416" tvg-name="J2" group-title="港澳及国外",J2
 http://bziyunshao.synology.me:8890/bysid/82
-#EXTINF:-1 tvg-name="TVB黃金翡翠台" tvg-id="368358" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2024/01/13/large/20240113205212260838_77.png" group-title="電影",TVB黄金翡翠
+#EXTINF:-1 tvg-name="TVB黃金翡翠台" tvg-id="368358" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2024/01/13/large/20240113205212260838_77.png" group-title="電影",TVB黄金翡翠台
 https://stream.freetv.fun/tvb-huang-jin-fei-cui-1.ctv
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" tvg-id="127" tvg-name="明珠台" group-title="港澳及国外",明珠台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" tvg-id="127" tvg-name="明珠台" group-title="港澳及国外",TVB明珠台
 http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" tvg-id="129" tvg-name="TVB经典台" group-title="港澳及国外",千禧經典台
+#EXTINF:-1 tvg-name="ASTRO AOD 311" tvg-id="2124" tvg-country="Malaysia" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826114608609036_92.png" group-title="Malaysia",Astro Aod
+https://stream.freetv.fun/astro-aod-311-yue-yu-2.ctv
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" tvg-id="129" tvg-name="TVB经典台" group-title="港澳及国外",TVB千禧經典台
 ,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:-1 tvg-name="TVB星河" tvg-id="368301" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719085717672946_45.png" group-title="電影",TVB星河
+#EXTINF:-1 tvg-name="TVB星河" tvg-id="368301" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719085717672946_45.png" group-title="電影",TVB星河频道
 https://stream.freetv.fun/tvb-xing-he-1.ctv
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-id="130" tvg-name="无线新闻" group-title="港澳及国外",无线新闻台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-id="130" tvg-name="无线新闻" group-title="港澳及国外",TVB无线新闻台
 http://bziyunshao.synology.me:8890/bysid/83
-#EXTINF:-1 tvg-name="TVB娛樂新聞" tvg-id="3920" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720201805684067_14.png" group-title="綜藝",[HD]tvb娱乐新闻
+#EXTINF:-1 tvg-name="TVB娛樂新聞" tvg-id="3920" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720201805684067_14.png" group-title="綜藝",TVB娱乐新闻台
 https://stream.freetv.fun/tvbyu-le-xin-wen-1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-id="141" tvg-name="凤凰中文" group-title="港澳及国外",凤凰卫视中文台
 http://113.64.145.229:8081/hls/37/index.m3u8
@@ -32,13 +34,13 @@ http://113.64.145.229:8081/hls/38/index.m3u8
 http://bziyunshao.synology.me:8889/bysid/9
 #EXTINF:-1 tvg-name="HOY TV" tvg-id="368903" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="新聞",HOY TV
 http://bziyunshao.synology.me:8891/bysid/77
-#EXTINF:-1 tvg-name="HOY資訊台" tvg-id="232352" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211913907119_40.png" group-title="新聞",[BD]hoy 资讯
+#EXTINF:-1 tvg-name="HOY資訊台" tvg-id="232352" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211913907119_40.png" group-title="新聞",HOY TV资讯
 http://bziyunshao.synology.me:8891/bysid/78
 #EXTINF:-1 tvg-name="RTHK31" tvg-id="368901" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719083758215404_92.png" group-title="綜藝",RTHKTV31
 http://bziyunshao.synology.me:8892/bysid/31
 #EXTINF:-1 tvg-name="RTHK32" tvg-id="368900" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719083827856598_33.png" group-title="新聞",RTHKTV32
 http://bziyunshao.synology.me:8892/bysid/32
-#EXTINF:-1 tvg-name="澳視澳門" tvg-id="" tvg-country="澳門" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719142956282911_66.png" group-title="綜合", 澳视澳门
+#EXTINF:-1 tvg-name="澳視澳門" tvg-id="" tvg-country="澳門" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719142956282911_66.png" group-title="綜合",澳视澳门
 http://nz189l149.bb27109.ctm.net:8891/bysid/94
 #EXTINF:-1 tvg-name="澳門資訊" tvg-id="" tvg-country="澳門" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719143215919020_21.jpg" group-title="新聞",澳门资讯
 http://nz189l149.bb27109.ctm.net:8891/bysid/94
@@ -132,8 +134,6 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3
 #EXTINF:-1 tvg-name="美亞電影台[HK]" tvg-id="368348" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722194138918890_62.png" group-title="電影",美亚电影
 https://epg.pw/stream/501c95bf64cae1b52c33559f14762620db25ea990992c2bb00afa8e15f7f9e07.m3u8
 #EXTINF:-1 tvg-name="NOW 星影臺" tvg-id="10983" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171857306359_61.png" group-title="電影",NOW 星影
-https://stream.freetv.fun/nowxing-ying-1.ctv
-#EXTINF:-1 tvg-name="NOW 爆谷臺" tvg-id="10983" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171857306359_61.png" group-title="電影",NOW 爆谷
 https://stream.freetv.fun/nowxing-ying-1.ctv
 #EXTINF:-1 tvg-name="NOW 爆谷臺" tvg-id="10983" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171857306359_61.png" group-title="電影",NOW 爆谷
 https://stream.freetv.fun/now-bao-gu-1.ctv
