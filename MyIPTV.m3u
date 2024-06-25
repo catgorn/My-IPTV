@@ -21,6 +21,8 @@ https://stream.freetv.fun/astro-aod-311-yue-yu-2.ctv
 ,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #EXTINF:-1 tvg-name="TVB星河" tvg-id="368301" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719085717672946_45.png" group-title="電影",TVB星河频道
 https://stream.freetv.fun/tvb-xing-he-1.ctv
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" tvg-id="130" tvg-name="TVB经典台" group-title="港澳及国外",TVB功夫台
+https://epg.pw/stream/26483cb6bba6622ac7668f90447549c7e5f972c57a136b95f0f1db38e5bfae35.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-id="130" tvg-name="无线新闻" group-title="港澳及国外",TVB无线新闻台
 https://stream.freetv.fun/tvbwu-xian-xin-wen-3.m3u8
 #EXTINF:-1 tvg-name="TVB娛樂新聞" tvg-id="3920" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720201805684067_14.png" group-title="綜藝",TVB娱乐新闻台
@@ -156,7 +158,9 @@ https://stream.freetv.fun/nowxing-ying-1.ctv
 https://stream.freetv.fun/now-bao-gu-1.ctv
 #EXTINF:-1 tvg-name="林正英" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525050911565808_71.png" group-title="Movies",林正英
 https://epg.pw/stream/30259fe0c62a1df39306558bc708c149f09092ea7dd815bf49fd3ad3bc6d73be.ctv
-周星驰粤语,https://epg.pw/stream/ac9ef71b361a6e3ba6a5cf6b926b37a88fd0e216bbf540ddacef7d986f05dbfb.ctv
-粤语電影臺,https://epg.pw/stream/736d317cbb9b208a3ac9a137d216abdd8bd493b49b2199f5943db224c14994f9.ctv
+#EXTINF:-1 tvg-name="周星驰" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525050911565808_78.png" group-title="Movies",周星驰
+https://epg.pw/stream/ac9ef71b361a6e3ba6a5cf6b926b37a88fd0e216bbf540ddacef7d986f05dbfb.ctv
+#EXTINF:-1 tvg-name="粤语" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525050911565808_72.png" group-title="Movies",粤语
+https://epg.pw/stream/736d317cbb9b208a3ac9a137d216abdd8bd493b49b2199f5943db224c14994f9.ctv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eurosport.png" tvg-id="7215" tvg-name="EUROSPORT" group-title="港澳及国外",EUROSPORT
-https://epg.pw/stream/432a11dd348b5d0bd040c8ed51dfda954baad2609c241b7ac467054dc6eb2ccb.
+https://epg.pw/stream/432a11dd348b5d0bd040c8ed51dfda954baad2609c241b7ac467054dc6eb2ccb.ctv
