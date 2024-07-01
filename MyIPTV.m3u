@@ -149,9 +149,9 @@ https://stream.freetv.fun/6c5de1b8a3d9eb61d0c17626f00388db62642006156eee0b039ea9
 #EXTINF:-1 tvg-name="美亞電影台[HK]" tvg-id="368348" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722194138918890_62.png" group-title="電影",美亚电影
 https://stream.freetv.fun/mei-ya-dian-ying-1.ctv
 #EXTINF:-1 tvg-name="NOW 星影臺" tvg-id="10983" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171857306359_61.png" group-title="電影",NOW 星影
-https://stream.freetv.fun/nowxing-ying-1.ctv
+http://111.160.76.101:80/香蕉哥/now星影.live.flv
 #EXTINF:-1 tvg-name="NOW 爆谷臺" tvg-id="10984" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171857306359_61.png" group-title="電影",NOW 爆谷
-https://stream.freetv.fun/nowbao-gu-1.ctv
+http://111.160.76.101:80/香蕉哥/now爆谷.live.flv
 #EXTINF:-1 tvg-name="林正英" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525050911565808_71.png" group-title="Movies",林正英
 https://epg.pw/stream/30259fe0c62a1df39306558bc708c149f09092ea7dd815bf49fd3ad3bc6d73be.ctv
 #EXTINF:-1 tvg-name="周星驰" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525050911565808_78.png" group-title="Movies",周星驰
