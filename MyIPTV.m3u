@@ -24,13 +24,13 @@ https://stream1.freetv.fun/tvbxing-he-3.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" tvg-id="130" tvg-name="TVB经典台" group-title="港澳及国外",TVB功夫台
 https://epg.pw/stream/26483cb6bba6622ac7668f90447549c7e5f972c57a136b95f0f1db38e5bfae35.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-id="130" tvg-name="无线新闻" group-title="港澳及国外",TVB无线新闻台
-https://stream.freetv.fun/tvbwu-xian-xin-wen-3.m3u8
+https://stream1.freetv.fun/tvbwu-xian-xin-wen-3.m3u8
 #EXTINF:-1 tvg-name="TVB娛樂新聞" tvg-id="3920" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720201805684067_14.png" group-title="綜藝",TVB娱乐新闻台
 https://stream.freetv.fun/tvbyu-le-xin-wen-1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-id="141" tvg-name="凤凰中文" group-title="港澳及国外",凤凰卫视中文台
-https://stream.freetv.fun/feng-huang-zhong-wen-10.m3u8
+https://stream1.freetv.fun/feng-huang-zhong-wen-9.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-id="142" tvg-name="凤凰资讯" group-title="港澳及国外",凤凰卫视资讯台
-https://stream.freetv.fun/feng-huang-zi-xun-10.m3u8
+https://stream1.freetv.fun/feng-huang-zi-xun-1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" tvg-id="143" tvg-name="凤凰香港" group-title="港澳及国外",凤凰卫视香港台
 https://stream.freetv.fun/feng-huang-xiang-gang-5.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" tvg-id="408" tvg-name="ViuTV" group-title="港澳及国外",Viu TV
