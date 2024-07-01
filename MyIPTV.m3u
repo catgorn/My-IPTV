@@ -160,6 +160,8 @@ https://stream.freetv.fun/nowbao-gu-1.ctv
 https://epg.pw/stream/30259fe0c62a1df39306558bc708c149f09092ea7dd815bf49fd3ad3bc6d73be.ctv
 #EXTINF:-1 tvg-name="周星驰" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525050911565808_78.png" group-title="Movies",周星驰
 https://epg.pw/stream/ac9ef71b361a6e3ba6a5cf6b926b37a88fd0e216bbf540ddacef7d986f05dbfb.ctv
+#EXTINF:-1 tvg-name="李连杰" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525050911565808_78.png" group-title="Movies",李连杰
+http://zby.xjqxz.top/lljdy/live.m3u8
 #EXTINF:-1 tvg-name="粤语" tvg-id="" tvg-country="China" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525050911565808_72.png" group-title="Movies",粤语
 https://epg.pw/stream/736d317cbb9b208a3ac9a137d216abdd8bd493b49b2199f5943db224c14994f9.ctv
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eurosport.png" tvg-id="7215" tvg-name="EUROSPORT" group-title="港澳及国外",EUROSPORT
