@@ -131,7 +131,7 @@ http://192.168.2.1:6688/udp/239.77.0.165:5146
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-id="17" tvg-name="CCTV17" group-title="央视",CCTV-17农村农业
 http://192.168.2.1:6688/udp/239.77.0.198:5146
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-id="106" tvg-name="CCTV4K" group-title="数字付费",CCTV4K
-http://192.168.2.1:6688/udp/239.77.1.180:5146
+http://192.168.2.1:6688/udp/239.77.1.98:5146
 #EXTINF:-1 tvg-id="CCTV-8K" tvg-name="CCTV-8K" tvg-logo="https://live.fanmingming.com/tv/CCTV-8K.png" group-title="央视频道",CCTV-8K
 http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" tvg-id="27" tvg-name="湖南卫视" group-title="央视",湖南卫视
