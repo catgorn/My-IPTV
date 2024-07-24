@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" tvg-id="7125" tvg-name="珠江频道" group-title="地方台",广东珠江频道
-http://192.168.2.1:6688/udp/239.77.0.1:5146
+http://192.168.2.1:6688/udp/239.77.0.114:5146
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" tvg-id="6013" tvg-name="广东体育" group-title="地方台",广东体育频道
-http://192.168.2.1:6688/rtp/239.77.0.168:5146
+http://192.168.2.1:6688/udp/239.77.0.168:5146
 #EXTINF:-1 tvg-name="TVB翡翠" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173109065303_59.png" group-title="綜合",TVB翡翠台4k
 http://bziyunshao.synology.me:8889/bysid/1
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" tvg-id="126" tvg-name="翡翠台" group-title="港澳及国外",翡翠台
@@ -127,11 +127,11 @@ http://192.168.2.1:6688/udp/239.77.1.161:5146
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-id="16" tvg-name="CCTV15" group-title="央视",CCTV-15音乐
 http://192.168.2.1:6688/udp/239.77.1.239:5146
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-id="7249" tvg-name="CCTV16" group-title="央视",CCTV奥林匹克频道
-http://192.168.2.1:6688/udp/239.77.0.165:5146
+http://192.168.2.1:6688/udp/239.77.1.98:5146
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-id="17" tvg-name="CCTV17" group-title="央视",CCTV-17农村农业
 http://192.168.2.1:6688/udp/239.77.0.198:5146
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-id="106" tvg-name="CCTV4K" group-title="数字付费",CCTV4K
-http://192.168.2.1:6688/udp/239.77.1.98:5146
+http://192.168.2.1:6688/udp/239.77.1.180:5146
 #EXTINF:-1 tvg-id="CCTV-8K" tvg-name="CCTV-8K" tvg-logo="https://live.fanmingming.com/tv/CCTV-8K.png" group-title="央视频道",CCTV-8K
 http://119.176.28.66/outlivecloud-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" tvg-id="27" tvg-name="湖南卫视" group-title="央视",湖南卫视
