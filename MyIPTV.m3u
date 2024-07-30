@@ -35,11 +35,11 @@ https://stream1.freetv.fun/feng-huang-wei-shi-zi-xun-1.ctv
 http://bziyunshao.synology.me:8890/bysid/85
 #EXTINF:-1 tvg-id="A18" tvg-name="viutv" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/viutv.png" group-title="港澳",viutv
 http://bziyunshao.synology.me:8889/bysid/99
-#EXTINF:-1 tvg-id="A19" tvg-name="HOYTV" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/20230722211941013059_20.png" group-title="港澳",HOYTV
+#EXTINF:-1 tvg-id="A19" tvg-name="HOYTV" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/HOY2.png" group-title="港澳",HOYTV
 http://bziyunshao.synology.me:8891/bysid/76
 #EXTINF:-1 tvg-id="A20" tvg-name="HOY资讯台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/20230722211913907119_40.png" group-title="港澳",HOY资讯台
 http://bziyunshao.synology.me:8891/bysid/77
-#EXTINF:-1 tvg-id="A21" tvg-name="HOY" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/HOY0.png" group-title="港澳",HOY
+#EXTINF:-1 tvg-id="A21" tvg-name="HOY" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/HOY1.png" group-title="港澳",HOY
 http://bziyunshao.synology.me:8891/bysid/78
 #EXTINF:-1 tvg-id="A22" tvg-name="RTHK31" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/RTHK31.png" group-title="港澳",RTHK31
 http://bziyunshao.synology.me:8892/bysid/31
