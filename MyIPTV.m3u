@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="A01" tvg-name="广东珠江频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Guangdong9.png" group-title="广东",广东珠江频道
 http://192.168.2.1:6688/udp/239.77.0.114:5146
-#EXTINF:-1 tvg-id="A02" tvg-name="广东体育频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Guangdong5.png.png" group-title="广东",广东体育频道
+#EXTINF:-1 tvg-id="A02" tvg-name="广东体育频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Guangdong5.png" group-title="广东",广东体育频道
 http://192.168.2.1:6688/udp/239.77.0.168:5146
 #EXTINF:-1 tvg-id="A03" tvg-name="TVB高清翡翠台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB1.png" group-title="香港",TVB高清翡翠台
 http://bziyunshao.synology.me:8889/bysid/1
-#EXTINF:-1 tvg-id="A04" tvg-name="TVB翡翠台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVBP1.png" group-title="香港",TVB翡翠台
+#EXTINF:-1 tvg-id="A04" tvg-name="TVB翡翠台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB1.png" group-title="香港",TVB翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 #EXTINF:-1 tvg-id="A05" tvg-name="TVB翡翠华丽台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB1.png" group-title="香港",TVB翡翠华丽台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
