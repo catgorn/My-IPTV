@@ -31,7 +31,7 @@ http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="A16" tvg-name="凤凰卫视资讯台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Phoenix2.png" group-title="港澳",凤凰卫视资讯台
 https://stream1.freetv.fun/feng-huang-wei-shi-zi-xun-1.ctv
-#EXTINF:-1 tvg-id="A17" tvg-name="凤凰卫视港澳台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Phoenix3.png" group-title="港澳",凤凰卫视港澳台
+#EXTINF:-1 tvg-id="A17" tvg-name="凤凰卫视香港台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Phoenix3.png" group-title="港澳",凤凰卫视香港台
 http://bziyunshao.synology.me:8890/bysid/85
 #EXTINF:-1 tvg-id="A18" tvg-name="viutv" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/viutv.png" group-title="港澳",viutv
 http://bziyunshao.synology.me:8889/bysid/99
@@ -43,9 +43,9 @@ http://bziyunshao.synology.me:8891/bysid/77
 http://bziyunshao.synology.me:8891/bysid/78
 #EXTINF:-1 tvg-id="A22" tvg-name="RTHK31" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/RTHK31.png" group-title="港澳",RTHK31
 http://bziyunshao.synology.me:8892/bysid/31
-#EXTINF:-1 tvg-id="A23" tvg-name="TVBPlus" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/RTHK32.png" group-title="港澳",TVBPlus
-http://bziyunshao.synology.me:8892/bysid/31
-#EXTINF:-1 tvg-id="A24" tvg-name="澳视澳 门" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Aoshi1.png" group-title="港澳",澳视澳门
+#EXTINF:-1 tvg-id="A23" tvg-name="RTHK32s" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/RTHK32.png" group-title="港澳",RTHK32
+http://bziyunshao.synology.me:8892/bysid/32
+#EXTINF:-1 tvg-id="A24" tvg-name="澳视澳门" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Aoshi1.png" group-title="港澳",澳视澳门
 https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-id="A25" tvg-name="澳视资讯" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Aoshi2.png" group-title="港澳",澳视资讯
 http://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
@@ -105,7 +105,7 @@ http://192.168.2.1:6688/udp/239.77.1.98:5146
 http://192.168.2.1:6688/udp/239.77.0.198:5146
 #EXTINF:-1 tvg-id="A53" tvg-name="CCTV-4K超高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV4K.png" group-title="央视",CCTV-4K超高清
 http://192.168.2.1:6688/udp/239.77.0.174:5146
-#EXTINF:-1 tvg-id="A54" tvg-name="TCCTV-8K超高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV8K.png" group-title="央视",CCTV-4K超高清
+#EXTINF:-1 tvg-id="A54" tvg-name="TCCTV-8K超高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV8K.png" group-title="央视",CCTV-8K超高清
 http://192.168.2.1:6688/udp/239.253.43.106:5146
 #EXTINF:-1 tvg-id="A55" tvg-name="湖南卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Hunan0.png" group-title="卫视",湖南卫视
 http://192.168.2.1:6688/udp/239.77.0.127:5146
