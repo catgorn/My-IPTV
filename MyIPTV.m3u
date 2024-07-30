@@ -1,27 +1,27 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="A01" tvg-name="广东珠江频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Guangdong9.png" group-title="广东",广东珠江频道
 http://192.168.2.1:6688/udp/239.77.0.114:5146
-#EXTINF:-1 tvg-id="A02" tvg-name="广东体育频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Guangdong5.png" group-title="广东",广东体育频道
+#EXTINF:-1 tvg-id="A02" tvg-name="广东体育频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Guangdong5.png.png" group-title="广东",广东体育频道
 http://192.168.2.1:6688/udp/239.77.0.168:5146
 #EXTINF:-1 tvg-id="A03" tvg-name="TVB高清翡翠台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB1.png" group-title="香港",TVB高清翡翠台
 http://bziyunshao.synology.me:8889/bysid/1
-#EXTINF:-1 tvg-id="A04" tvg-name="TVB翡翠台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB1.png" group-title="香港",TVB翡翠台
+#EXTINF:-1 tvg-id="A04" tvg-name="TVB翡翠台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVBP1.png" group-title="香港",TVB翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 #EXTINF:-1 tvg-id="A05" tvg-name="TVB翡翠华丽台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB1.png" group-title="香港",TVB翡翠华丽台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" tvg-id="416" tvg-name="J2" group-title="港澳及国外",J2
+#EXTINF:-1 tvg-id="A06" tvg-name="TVBPlus" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVBPlus.png" group-title="香港",TVBPlus
 http://bziyunshao.synology.me:8890/bysid/82
-#EXTINF:-1 tvg-name="TVB黃金翡翠台" tvg-id="368358" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2024/01/13/large/20240113205212260838_77.png" group-title="電影",TVB黄金翡翠台
+#EXTINF:-1 tvg-id="A07" tvg-name="TVB黄金翡翠台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVBPlus.png" group-title="香港",TVB黄金翡翠台
 https://stream.freetv.fun/tvb-huang-jin-fei-cui-1.ctv
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" tvg-id="127" tvg-name="明珠台" group-title="港澳及国外",TVB明珠台
+#EXTINF:-1 tvg-id="A08" tvg-name="TVB明珠台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB2.png" group-title="香港",TVB明珠台
 http://bziyunshao.synology.me:8890/bysid/2
-#EXTINF:-1 tvg-name="ASTRO AOD 311" tvg-id="2124" tvg-country="Malaysia" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826114608609036_92.png" group-title="Malaysia",Astro Aod
-https://stream.freetv.fun/astro-aod-311-yue-yu-2.ctv
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" tvg-id="129" tvg-name="TVB经典台" group-title="港澳及国外",TVB千禧經典台
-http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:-1 tvg-name="TVB星河" tvg-id="368301" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719085717672946_45.png" group-title="電影",TVB星河频道
+#EXTINF:-1 tvg-id="A09" tvg-name="Astro AOD" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Astro AOD.png" group-title="香港",Astro AOD
+https://stream.freetv.fun/astro-aod-311-yue-yu-1.ctv
+#EXTINF:-1 tvg-id="A10" tvg-name="TVB经典台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB8.png" group-title="香港",TVB经典台
+http://php.jdshipin.com:8880/smt.php?id=jade_tw
+#EXTINF:-1 tvg-id="A11" tvg-name="TVB星河频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB6.png" group-title="香港",TVB星河频道
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" tvg-id="130" tvg-name="TVB经典台" group-title="港澳及国外",TVB功夫台
+#EXTINF:-1 tvg-id="A12" tvg-name="TVB功夫台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB15.png" group-title="香港",TVB功夫台
 https://epg.pw/stream/26483cb6bba6622ac7668f90447549c7e5f972c57a136b95f0f1db38e5bfae35.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-id="130" tvg-name="无线新闻" group-title="港澳及国外",TVB无线新闻台
 http://bziyunshao.synology.me:8890/bysid/83
