@@ -11,7 +11,7 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 #EXTINF:-1 tvg-id="A06" tvg-name="TVBPlus" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVBPlus.png" group-title="香港",TVBPlus
 http://bziyunshao.synology.me:8890/bysid/82
-#EXTINF:-1 tvg-id="A07" tvg-name="TVB黄金翡翠台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVBPlus.png" group-title="香港",TVB黄金翡翠台
+#EXTINF:-1 tvg-id="A07" tvg-name="TVB黄金翡翠台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB1.png" group-title="香港",TVB黄金翡翠台
 https://stream.freetv.fun/tvb-huang-jin-fei-cui-1.ctv
 #EXTINF:-1 tvg-id="A08" tvg-name="TVB明珠台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB2.png" group-title="香港",TVB明珠台
 http://bziyunshao.synology.me:8890/bysid/2
@@ -23,15 +23,15 @@ http://php.jdshipin.com:8880/smt.php?id=jade_tw
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="A12" tvg-name="TVB功夫台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB15.png" group-title="香港",TVB功夫台
 https://epg.pw/stream/26483cb6bba6622ac7668f90447549c7e5f972c57a136b95f0f1db38e5bfae35.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" tvg-id="130" tvg-name="无线新闻" group-title="港澳及国外",TVB无线新闻台
+#EXTINF:-1 tvg-id="A13" tvg-name="TVB无线新闻台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB4.png" group-title="香港",TVB无线新闻台
 http://bziyunshao.synology.me:8890/bysid/83
-#EXTINF:-1 tvg-name="TVB娛樂新聞" tvg-id="3920" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720201805684067_14.png" group-title="綜藝",TVB娱乐新闻台
+#EXTINF:-1 tvg-id="A14" tvg-name="TVB财经体育资讯台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB5.png" group-title="香港",TVBPlus
 http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-id="141" tvg-name="凤凰中文" group-title="港澳及国外",凤凰卫视中文台
-https://stream1.freetv.fun/feng-huang-wei-shi-zhong-wen-1.ctv
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-id="142" tvg-name="凤凰资讯" group-title="港澳及国外",凤凰卫视资讯台
+#EXTINF:-1 tvg-id="A15" tvg-name="凤凰卫视中文台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Phoenix1.png" group-title="香港",凤凰卫视中文台
+http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="A16" tvg-name="凤凰卫视资讯台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Phoenix2.png" group-title="香港",凤凰卫视资讯台
 https://stream1.freetv.fun/feng-huang-wei-shi-zi-xun-1.ctv
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" tvg-id="143" tvg-name="凤凰香港" group-title="港澳及国外",凤凰卫视香港台
+#EXTINF:-1 tvg-id="A17" tvg-name="凤凰卫视香港台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Phoenix3.png" group-title="香港",凤凰卫视香港台
 http://bziyunshao.synology.me:8890/bysid/85
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" tvg-id="408" tvg-name="ViuTV" group-title="港澳及国外",Viu TV
 http://bziyunshao.synology.me:8889/bysid/99
