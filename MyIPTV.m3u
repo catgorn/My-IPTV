@@ -12,13 +12,13 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 #EXTINF:-1 tvg-id="A06" tvg-name="TVBPlus" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVBPlus.png" group-title="港澳",TVBPlus
 http://bziyunshao.synology.me:8890/bysid/82
 #EXTINF:-1 tvg-id="A07" tvg-name="TVB黄金翡翠台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB1.png" group-title="港澳",TVB黄金翡翠台
-https://stream.freetv.fun/tvb-huang-jin-fei-cui-1.ctv
+https://tvb.mytvsuper.us.kg/stream/tvb/null-3/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-id="A08" tvg-name="TVB明珠台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB2.png" group-title="港澳",TVB明珠台
 http://bziyunshao.synology.me:8890/bysid/2
 #EXTINF:-1 tvg-id="A09" tvg-name="Astro AOD" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Astro AOD.png" group-title="港澳",Astro AOD
 https://stream.freetv.fun/astro-aod-311-yue-yu-1.ctv
 #EXTINF:-1 tvg-id="A10" tvg-name="TVB经典台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB8.png" group-title="港澳",TVB经典台
-http://php.jdshipin.com:8880/smt.php?id=jade_tw
+https://tvb.mytvsuper.us.kg/stream/tvb/null-4/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-id="A11" tvg-name="TVB星河频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB6.png" group-title="港澳",TVB星河频道
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="A12" tvg-name="TVB功夫台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB15.png" group-title="港澳",TVB功夫台
@@ -28,9 +28,9 @@ http://bziyunshao.synology.me:8890/bysid/83
 #EXTINF:-1 tvg-id="A14" tvg-name="TVB财经体育资讯台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB5.png" group-title="港澳",TVB财经体育资讯台
 http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="A15" tvg-name="凤凰卫视中文台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Phoenix1.png" group-title="港澳",凤凰卫视中文台
-http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+https://tvb.mytvsuper.us.kg/stream/tvb/null-17/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-id="A16" tvg-name="凤凰卫视资讯台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Phoenix2.png" group-title="港澳",凤凰卫视资讯台
-https://stream1.freetv.fun/feng-huang-wei-shi-zi-xun-1.ctv
+https://tvb.mytvsuper.us.kg/stream/tvb/null-18/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-id="A17" tvg-name="凤凰卫视香港台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Phoenix3.png" group-title="港澳",凤凰卫视香港台
 http://bziyunshao.synology.me:8890/bysid/85
 #EXTINF:-1 tvg-id="A18" tvg-name="viutv" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/viutv.png" group-title="港澳",viutv
@@ -122,7 +122,7 @@ https://stream.freetv.fun/6c5de1b8a3d9eb61d0c17626f00388db62642006156eee0b039ea9
 #EXTINF:-1 tvg-id="A61" tvg-name="CHC家庭影院" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CHC家庭影院.png" group-title="电影",CHC家庭影院
 https://stream.freetv.fun/6c5de1b8a3d9eb61d0c17626f00388db62642006156eee0b039ea9dd9f11f927.ctv
 #EXTINF:-1 tvg-id="A62" tvg-name="美亚电影台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/20230722194138918890_62.png" group-title="电影",美亚电影台
-https://stream.freetv.fun/mei-ya-dian-ying-1.ctv
+https://tvb.mytvsuper.us.kg/stream/tvb/null-11/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-id="A63" tvg-name="NOW星影台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/now5.png" group-title="电影",NOW星影台
 https://stream1.freetv.fun/now-xing-ying-1.ctv
 #EXTINF:-1 tvg-id="A64" tvg-name="NOW爆谷台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/now4.png" group-title="电影",NOW爆谷台
