@@ -37,9 +37,9 @@ http://bziyunshao.synology.me:8890/bysid/85
 http://bziyunshao.synology.me:8889/bysid/99
 #EXTINF:-1 tvg-id="A19" tvg-name="HOYTV" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/HOY2.png" group-title="港澳",HOYTV
 http://bziyunshao.synology.me:8891/bysid/76
-#EXTINF:-1 tvg-id="A20" tvg-name="HOY资讯台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/HOY0.png" group-title="港澳",HOY资讯台
+#EXTINF:-1 tvg-id="A20" tvg-name="HOY新闻台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/HOY0.png" group-title="港澳",HOY新闻台
 http://bziyunshao.synology.me:8891/bysid/77
-#EXTINF:-1 tvg-id="A21" tvg-name="HOY" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/HOY1.png" group-title="港澳",HOY
+#EXTINF:-1 tvg-id="A21" tvg-name="HOY资讯台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/HOY0.png" group-title="港澳",HOY资讯台
 http://bziyunshao.synology.me:8891/bysid/78
 #EXTINF:-1 tvg-id="A22" tvg-name="RTHK31" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/RTHK31.png" group-title="港澳",RTHK31
 http://bziyunshao.synology.me:8892/bysid/31
@@ -61,29 +61,29 @@ https://stream.freetv.fun/elta-ti-yu--3-2.ctv
 http://livetv.skycf.eu.org/live.m3u8?c=7
 #EXTINF:-1 tvg-id="A31" tvg-name="中天亚洲台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CTI3.png" group-title="台湾",中天亚洲台
 http://livetv.skycf.eu.org/live.m3u8?c=3
-#EXTINF:-1 tvg-id="A32" tvg-name="中视新闻台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/中视新闻.png" group-title="台湾", 中视新闻台
+#EXTINF:-1 tvg-id="A32" tvg-name="中视新闻台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/中视新闻.png" group-title="台湾",中视新闻台
 https://stream.freetv.fun/tvbsxin-wen-3.m3u8
-#EXTINF:-1 tvg-id="A33" tvg-name="CCTV-1综合" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV1.png" group-title="央视",CCTV-1综合
+#EXTINF:-1 tvg-id="A33" tvg-name="CCTV-1综合频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV1.png" group-title="央视",CCTV-1综合频道
 http://192.168.2.1:6688/udp/239.77.0.129:5146
-#EXTINF:-1 tvg-id="A34" tvg-name="CCTV-2财经" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV2.png" group-title="央视",CCTV-1财经
+#EXTINF:-1 tvg-id="A34" tvg-name="CCTV-2财经频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV2.png" group-title="央视",CCTV-1财经频道
 http://192.168.2.1:6688/udp//239.77.0.137:5146
-#EXTINF:-1 tvg-id="A35" tvg-name="CCTV-3综艺" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV3.png" group-title="央视",CCTV-1综艺
+#EXTINF:-1 tvg-id="A35" tvg-name="CCTV-3综艺频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV3.png" group-title="央视",CCTV-1综艺频道
 http://192.168.2.1:6688/udp/239.77.0.169:5146
-#EXTINF:-1 tvg-id="A36" tvg-name="CCTV-4中文国国际" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV4.png" group-title="央视",CCTV-4中文国际
+#EXTINF:-1 tvg-id="A36" tvg-name="CCTV-4中文国国际频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV4.png" group-title="央视",CCTV-4中文国际
 http://192.168.2.1:6688/udp/239.77.0.78:5146
-#EXTINF:-1 tvg-id="A37" tvg-name="CCTV-4美洲" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV4美洲.png" group-title="央视",CCTV-4美洲
+#EXTINF:-1 tvg-id="A37" tvg-name="CCTV-4美洲频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV4美洲.png" group-title="央视",CCTV-4美洲
 http://192.168.2.1:6688/udp/239.253.43.121:5146
-#EXTINF:-1 tvg-id="A38" tvg-name="CCTV-4欧洲" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV4欧洲.png" group-title="央视",CCTV-4欧洲
+#EXTINF:-1 tvg-id="A38" tvg-name="CCTV-4欧洲频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV4欧洲.png" group-title="央视",CCTV-4欧洲
 http://192.168.2.1:6688/udp/239.253.43.120:5146
 #EXTINF:-1 tvg-id="A39" tvg-name="CCTV-5体育频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV5.png" group-title="央视",CCTV-5体育频道
 http://192.168.2.1:6688/udp/239.77.0.170:5146
-#EXTINF:-1 tvg-id="A40" tvg-name="CCTV-5+体育赛事" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV5+.png" group-title="央视",CCTV-5+体育赛事
+#EXTINF:-1 tvg-id="A40" tvg-name="CCTV-5+体育赛事频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV5+.png" group-title="央视",CCTV-5+体育赛事
 http://192.168.2.1:6688/udp/239.77.0.87:5146
-#EXTINF:-1 tvg-id="A41" tvg-name="CCTV-6电视频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV6.png" group-title="央视",CCTV-6电影频道
+#EXTINF:-1 tvg-id="A41" tvg-name="CCTV-6电影频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV6.png" group-title="央视",CCTV-6电影频道
 http://192.168.2.1:6688/udp/239.77.0.171:5146
-#EXTINF:-1 tvg-id="A42" tvg-name="CCTV-7国防军事" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV7.png" group-title="央视",CCTV-7国防军事
+#EXTINF:-1 tvg-id="A42" tvg-name="CCTV-7国防军事频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV7.png" group-title="央视",CCTV-7国防军事
 http://192.168.2.1:6688/udp/239.77.1.159:5146
-#EXTINF:-1 tvg-id="A43" tvg-name="CCTV-8电视剧" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV8.png" group-title="央视",CCTV-8电视剧
+#EXTINF:-1 tvg-id="A43" tvg-name="CCTV-8电视剧频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV8.png" group-title="央视",CCTV-8电视剧频道
 http://192.168.2.1:6688/udp/239.77.0.172:5146
 #EXTINF:-1 tvg-id="A44" tvg-name="CCTV-9纪录频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV9.png" group-title="央视",CCTV-9纪录频道
 http://192.168.2.1:6688/udp/239.77.1.160:5146
@@ -91,7 +91,7 @@ http://192.168.2.1:6688/udp/239.77.1.160:5146
 http://192.168.2.1:6688/udp/239.77.1.113:5146
 #EXTINF:-1 tvg-id="A46" tvg-name="CCTV-11戏曲频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV11.png" group-title="央视",CCTV-11戏曲频道
 http://192.168.2.1:6688/udp/239.77.1.238:5146
-#EXTINF:-1 tvg-id="A47" tvg-name="CCTV-12社会与法" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV12.png" group-title="央视",CCTV-12社会与法
+#EXTINF:-1 tvg-id="A47" tvg-name="CCTV-12社会与法频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV12.png" group-title="央视",CCTV-12社会与法
 http://192.168.2.1:6688/udp/239.77.1.109:5146
 #EXTINF:-1 tvg-id="A48" tvg-name="CCTV-13新闻频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV13.png" group-title="央视",CCTV-13新闻频道
 http://192.168.2.1:6688/udp/239.77.0.188:5146
@@ -101,11 +101,11 @@ http://192.168.2.1:6688/udp/239.77.1.161:5146
 http://192.168.2.1:6688/udp/239.77.1.239:5146
 #EXTINF:-1 tvg-id="A51" tvg-name="CCTV-16奥林匹克频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV16.png" group-title="央视",CCTV-16奥林匹克频道
 http://192.168.2.1:6688/udp/239.77.1.98:5146
-#EXTINF:-1 tvg-id="A52" tvg-name="CCTV-17农村农业" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV17.png" group-title="央视",CCTV-17农村农业
+#EXTINF:-1 tvg-id="A52" tvg-name="CCTV-17农村农业频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV17.png" group-title="央视",CCTV-17农村农业
 http://192.168.2.1:6688/udp/239.77.0.198:5146
-#EXTINF:-1 tvg-id="A53" tvg-name="CCTV-4K超高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV4K.png" group-title="央视",CCTV-4K超高清
+#EXTINF:-1 tvg-id="A53" tvg-name="CCTV-4K超高清频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV4K.png" group-title="央视",CCTV-4K超高清
 http://192.168.2.1:6688/udp/239.77.0.174:5146
-#EXTINF:-1 tvg-id="A54" tvg-name="TCCTV-8K超高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV8K.png" group-title="央视",CCTV-8K超高清
+#EXTINF:-1 tvg-id="A54" tvg-name="TCCTV-8K超高清频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV8K.png" group-title="央视",CCTV-8K超高清
 http://192.168.2.1:6688/udp/239.253.43.106:5146
 #EXTINF:-1 tvg-id="A55" tvg-name="湖南卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Hunan0.png" group-title="卫视",湖南卫视
 http://192.168.2.1:6688/udp/239.77.0.127:5146
@@ -136,3 +136,4 @@ http://zby.xjqxz.top/lljdy/live.m3u8
 #EXTINF:-1 tvg-id="A68" tvg-name="粤语经典" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB14.png" group-title="电影",粤语经典
 https://epg.pw/stream/736d317cbb9b208a3ac9a137d216abdd8bd493b49b2199f5943db224c14994f9.ctv
 #EXTINF:-1 tvg-id="A69" tvg-name="天映频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/typd.png" group-title="电影",天映频道
+https://stream1.freetv.fun/amcdian-ying-1.m3u8
