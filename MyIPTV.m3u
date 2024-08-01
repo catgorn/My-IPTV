@@ -47,7 +47,7 @@ http://bziyunshao.synology.me:8892/bysid/31
 http://bziyunshao.synology.me:8892/bysid/32
 #EXTINF:-1 tvg-id="A24" tvg-name="澳视澳门" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Aoshi1.png" group-title="港澳",澳视澳门
 https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-id="A25" tvg-name="澳视资讯" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Aoshi2.png" group-title="港澳",澳视资讯
+#EXTINF:-1 tvg-id="A25" tvg-name="澳视资讯" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Aoshi4.png" group-title="港澳",澳视资讯
 http://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-id="A26" tvg-name="纬来体育台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Videoland7.png" group-title="台湾",纬来体育台
 rtmp://f13h.mine.nu/sat/tv721
