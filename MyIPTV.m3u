@@ -117,6 +117,14 @@ http://192.168.2.1:6688/udp/239.77.0.174:5146
 http://192.168.2.1:6688/udp/239.253.43.106:5146
 #EXTINF:-1 tvg-id="A54" tvg-name="CCTV世界地理高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/世界地理.png" group-title="央视",CCTV世界地理高清
 http://192.168.2.1:6688/udp/239.253.43.24:5146
+#EXTINF:-1 tvg-id="A88" tvg-name="风云足球" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/风云足球.png" group-title="央视",CCTV风云足球	
+http://192.168.2.1:6688/udp/239.253.43.14:5146	
+#EXTINF:-1 tvg-id="A89" tvg-name="怀旧剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/怀旧剧场.png" group-title="央视",CCTV怀旧剧场	
+http://192.168.2.1:6688/udp/239.253.43.25:5146	
+#EXTINF:-1 tvg-id="A90" tvg-name="风云剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/风云剧场.png" group-title="央视",CCTV风云剧场	
+http://192.168.2.1:6688/udp/239.253.43.26:5146	
+#EXTINF:-1 tvg-id="A91" tvg-name="文化精品" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/文化精品.png" group-title="央视",文化精品
+http://192.168.2.1:6688/udp/239.253.43.27:5146
 #EXTINF:-1 tvg-id="A55" tvg-name="湖南卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Hunan0.png" group-title="卫视",湖南卫视
 http://192.168.2.1:6688/udp/239.77.0.127:5146
 #EXTINF:-1 tvg-id="A56" tvg-name="浙江卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Zhejiang0.png" group-title="卫视",浙江卫视
@@ -159,6 +167,8 @@ http://192.168.2.1:6688/udp/239.77.0.139:5146
 http://192.168.2.1:6688/udp/239.253.43.35:5146	
 #EXTINF:-1 tvg-id="A86" tvg-name="甘肃卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/甘肃卫视.png" group-title="卫视",甘肃卫视	
 http://192.168.2.1:6688/udp/239.77.0.189:5146	
+#EXTINF:-1 tvg-id="A87" tvg-name="三沙卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/三沙卫视.png" group-title="卫视",三沙卫视	
+http://192.168.2.1:6688/udp/239.253.43.113:5146	
 #EXTINF:-1 tvg-id="A58" tvg-name="CHC动作电影" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CHC动作电影.png" group-title="电影",CHC动作电影
 https://stream.freetv.fun/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f3952fc04.ctv
 #EXTINF:-1 tvg-id="A59" tvg-name="CHC影迷电影" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CHC影迷电影.png" group-title="电影",CHC影迷电影
