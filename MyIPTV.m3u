@@ -113,6 +113,8 @@ http://192.168.2.1:6688/udp/239.77.0.127:5146
 http://192.168.2.1:6688/udp/239.77.0.89:5146
 #EXTINF:-1 tvg-id="A57" tvg-name="江苏卫视" tvg-logo="https://mirror.ghprox.com/https://github.com/catgorn/TVlogo/blob/main/Jiangsu0.png" group-title="卫视",江苏卫视
 http://192.168.2.1:6688/udp/239.77.0.90:5146
+#EXTINF:-1 tvg-id="A57" tvg-name="北京卫视" tvg-logo="https://mirror.ghprox.com/https://github.com/catgorn/TVlogo/blob/main/Beijing0.png" group-title="卫视",北京卫视
+http://192.168.2.1:6688/udp/239.77.0.91:5146
 #EXTINF:-1 tvg-id="A58" tvg-name="CHC动作电影" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CHC动作电影.png" group-title="电影",CHC动作电影
 https://stream.freetv.fun/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f3952fc04.ctv
 #EXTINF:-1 tvg-id="A59" tvg-name="CHC影迷电影" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CHC影迷电影.png" group-title="电影",CHC影迷电影
