@@ -193,3 +193,5 @@ http://zby.xjqxz.top/lljdy/live.m3u8
 https://epg.pw/stream/736d317cbb9b208a3ac9a137d216abdd8bd493b49b2199f5943db224c14994f9.ctv
 #EXTINF:-1 tvg-id="A69" tvg-name="天映频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/typd.png" group-title="电影",天映频道
 https://stream1.freetv.fun/amcdian-ying-1.m3u8
+#EXTINF:-1 tvg-id="A152" tvg-name="经典HK电影," tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB14.png" group-title="电影",经典HK电影
+http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5100180869/150/01.m3u8?&HlsSubType=&encrypt=
