@@ -74,7 +74,7 @@ rtmp://f13h.mine.nu/sat/tv071
 #EXTINF:-1 tvg-id="A33" tvg-name="CCTV-1综合频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV1.png" group-title="央视",CCTV-1综合频道
 http://192.168.2.1:6688/udp/239.77.0.129:5146
 #EXTINF:-1 tvg-id="A34" tvg-name="CCTV-2财经频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV2.png" group-title="央视",CCTV-2财经频道
-http://192.168.2.1:6688/udp//239.77.0.137:5146
+http://192.168.2.1:6688/udp/239.77.0.137:5146
 #EXTINF:-1 tvg-id="A35" tvg-name="CCTV-3综艺频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV3.png" group-title="央视",CCTV-3综艺频道
 http://192.168.2.1:6688/udp/239.77.0.169:5146
 #EXTINF:-1 tvg-id="A36" tvg-name="CCTV-4中文国国际频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV4.png" group-title="央视",CCTV-4中文国际
