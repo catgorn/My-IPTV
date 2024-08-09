@@ -34,9 +34,9 @@ http://bziyunshao.synology.me:8890/bysid/83
 #EXTINF:-1 tvg-id="A14" tvg-name="TVB财经体育资讯台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB5.png" group-title="港澳",TVB财经体育资讯台
 http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="A15" tvg-name="凤凰卫视中文台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Phoenix1.png" group-title="港澳",凤凰卫视中文台
-https://tvb.mytvsuper.us.kg/stream/tvb/null-17/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+http://iptviptv.site:9694/hls/731/index.m3u8
 #EXTINF:-1 tvg-id="A16" tvg-name="凤凰卫视资讯台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Phoenix2.png" group-title="港澳",凤凰卫视资讯台
-https://tvb.mytvsuper.us.kg/stream/tvb/null-18/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+http://iptviptv.site:9694/hls/732/index.m3u8
 #EXTINF:-1 tvg-id="A17" tvg-name="凤凰卫视香港台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Phoenix3.png" group-title="港澳",凤凰卫视香港台
 http://bziyunshao.synology.me:8890/bysid/85
 #EXTINF:-1 tvg-id="A18" tvg-name="viutv" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/viutv.png" group-title="港澳",viutv
@@ -170,13 +170,13 @@ http://192.168.2.1:6688/udp/239.77.0.189:5146
 #EXTINF:-1 tvg-id="A87" tvg-name="三沙卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/三沙卫视.png" group-title="卫视",三沙卫视	
 http://192.168.2.1:6688/udp/239.253.43.113:5146	
 #EXTINF:-1 tvg-id="A58" tvg-name="CHC动作电影" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CHC动作电影.png" group-title="电影",CHC动作电影
-https://stream.freetv.fun/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f3952fc04.ctv
+http://iptviptv.site:9694/hls/701/index.m3u8
 #EXTINF:-1 tvg-id="A59" tvg-name="CHC影迷电影" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CHC影迷电影.png" group-title="电影",CHC影迷电影
 http://192.168.2.1:6688/udp/239.77.0.27:5146
 #EXTINF:-1 tvg-id="A60" tvg-name="CHC高清电影" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CHC高清电影.png" group-title="电影",CHC高清电影
 https://stream.freetv.fun/6c5de1b8a3d9eb61d0c17626f00388db62642006156eee0b039ea9dd9f11f927.ctv
 #EXTINF:-1 tvg-id="A61" tvg-name="CHC家庭影院" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CHC家庭影院.png" group-title="电影",CHC家庭影院
-https://stream.freetv.fun/6c5de1b8a3d9eb61d0c17626f00388db62642006156eee0b039ea9dd9f11f927.ctv
+http://iptviptv.site:9694/hls/700/index.m3u8
 #EXTINF:-1 tvg-id="A62" tvg-name="美亚电影台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/20230722194138918890_62.png" group-title="电影",美亚电影台
 https://tvb.mytvsuper.us.kg/stream/tvb/null-11/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-id="A63" tvg-name="NOW星影台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/now5.png" group-title="电影",NOW星影台
