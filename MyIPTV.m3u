@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="A01" tvg-name="广东珠江频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Guangdong9.png" group-title="广东",广东珠江频道
+#EXTINF:-1 tvg-id="A01" tvg-name="广东珠江频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/广东珠江.png" group-title="广东",广东珠江频道
 http://192.168.2.1:6688/udp/239.77.0.114:5146
-#EXTINF:-1 tvg-id="A02" tvg-name="广东体育频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Guangdong5.png" group-title="广东",广东体育频道
+#EXTINF:-1 tvg-id="A02" tvg-name="广东体育频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/广东体育.png" group-title="广东",广东体育频道
 http://192.168.2.1:6688/udp/239.77.0.168:5146
 #EXTINF:-1 tvg-id="A092" tvg-name="广东卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/广东卫视.png" group-title="广东",广东卫视
 http://192.168.2.1:6688/udp/239.77.0.166:5146
@@ -9,35 +9,35 @@ http://192.168.2.1:6688/udp/239.77.0.166:5146
 http://192.168.2.1:6688/udp/239.77.0.215:5146
 #EXTINF:-1 tvg-id="A094" tvg-name="深圳卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/深圳卫视.png" group-title="广东",深圳卫视
 http://192.168.2.1:6688/udp/239.77.0.130:5146
-#EXTINF:-1 tvg-id="A03" tvg-name="TVB高清翡翠台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB1.png" group-title="港澳",TVB高清翡翠台
+#EXTINF:-1 tvg-id="A03" tvg-name="TVB高清翡翠台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/翡翠台.png" group-title="港澳",TVB高清翡翠台
 https://tvb.mytvsuper.us.kg/stream/tvb/4k/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="A04" tvg-name="TVB翡翠台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB1.png" group-title="港澳",TVB翡翠台
+#EXTINF:-1 tvg-id="A04" tvg-name="TVB翡翠台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/翡翠台.png" group-title="港澳",TVB翡翠台
 http://bziyunshao.synology.me:8889/bysid/1
-#EXTINF:-1 tvg-id="A05" tvg-name="TVB翡翠华丽台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB1.png" group-title="港澳",TVB翡翠华丽台
+#EXTINF:-1 tvg-id="A05" tvg-name="TVB翡翠华丽台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/MyTV.png" group-title="港澳",TVB翡翠华丽台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 #EXTINF:-1 tvg-id="A06" tvg-name="TVBPlus" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVBPlus.png" group-title="港澳",TVBPlus
 http://bziyunshao.synology.me:8890/bysid/82
-#EXTINF:-1 tvg-id="A07" tvg-name="TVB黄金翡翠台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB1.png" group-title="港澳",TVB黄金翡翠台
+#EXTINF:-1 tvg-id="A07" tvg-name="TVB黄金翡翠台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/翡翠台.png" group-title="港澳",TVB黄金翡翠台
 https://tvb.mytvsuper.us.kg/stream/tvb/null-3/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="A08" tvg-name="TVB明珠台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB2.png" group-title="港澳",TVB明珠台
+#EXTINF:-1 tvg-id="A08" tvg-name="TVB明珠台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/明珠台.png" group-title="港澳",TVB明珠台
 http://bziyunshao.synology.me:8890/bysid/2
 #EXTINF:-1 tvg-id="A09" tvg-name="Astro AOD" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Astro AOD.png" group-title="港澳",Astro AOD
 https://stream.freetv.fun/astro-aod-311-yue-yu-1.ctv
-#EXTINF:-1 tvg-id="A10" tvg-name="TVB经典台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB8.png" group-title="港澳",TVB经典台
+#EXTINF:-1 tvg-id="A10" tvg-name="TVB经典台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/无线经典台.png" group-title="港澳",TVB经典台
 https://tvb.mytvsuper.us.kg/stream/tvb/null-4/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="A11" tvg-name="TVB星河频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB6.png" group-title="港澳",TVB星河频道
+#EXTINF:-1 tvg-id="A11" tvg-name="TVB星河频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/星河频道.png" group-title="港澳",TVB星河频道
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="A12" tvg-name="TVB功夫台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB15.png" group-title="港澳",TVB功夫台
+#EXTINF:-1 tvg-id="A12" tvg-name="TVB功夫台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/无线功夫.png" group-title="港澳",TVB功夫台
 https://epg.pw/stream/26483cb6bba6622ac7668f90447549c7e5f972c57a136b95f0f1db38e5bfae35.m3u8
-#EXTINF:-1 tvg-id="A13" tvg-name="TVB无线新闻台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB4.png" group-title="港澳",TVB无线新闻台
+#EXTINF:-1 tvg-id="A13" tvg-name="TVB无线新闻台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/无线新闻.png" group-title="港澳",TVB无线新闻台
 http://bziyunshao.synology.me:8890/bysid/83
-#EXTINF:-1 tvg-id="A14" tvg-name="TVB财经体育资讯台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB5.png" group-title="港澳",TVB财经体育资讯台
+#EXTINF:-1 tvg-id="A14" tvg-name="TVB财经体育资讯台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/无线财经娱乐.png" group-title="港澳",TVB财经体育资讯台
 http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="A15" tvg-name="凤凰卫视中文台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Phoenix1.png" group-title="港澳",凤凰卫视中文台
+#EXTINF:-1 tvg-id="A15" tvg-name="凤凰卫视中文台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/凤凰中文.png" group-title="港澳",凤凰卫视中文台
 http://iptviptv.site:9694/hls/731/index.m3u8
-#EXTINF:-1 tvg-id="A16" tvg-name="凤凰卫视资讯台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Phoenix2.png" group-title="港澳",凤凰卫视资讯台
+#EXTINF:-1 tvg-id="A16" tvg-name="凤凰卫视资讯台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/凤凰资讯.png" group-title="港澳",凤凰卫视资讯台
 http://iptviptv.site:9694/hls/732/index.m3u8
-#EXTINF:-1 tvg-id="A17" tvg-name="凤凰卫视香港台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Phoenix3.png" group-title="港澳",凤凰卫视香港台
+#EXTINF:-1 tvg-id="A17" tvg-name="凤凰卫视香港台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/凤凰香港.png" group-title="港澳",凤凰卫视香港台
 http://bziyunshao.synology.me:8890/bysid/85
 #EXTINF:-1 tvg-id="A18" tvg-name="viutv" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/viutv.png" group-title="港澳",viutv
 http://bziyunshao.synology.me:8889/bysid/99
@@ -45,41 +45,41 @@ http://bziyunshao.synology.me:8889/bysid/99
 http://bziyunshao.synology.me:8891/bysid/76
 #EXTINF:-1 tvg-id="A20" tvg-name="HOY新闻台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/HOY0.png" group-title="港澳",HOY新闻台
 http://bziyunshao.synology.me:8891/bysid/77
-#EXTINF:-1 tvg-id="A21" tvg-name="HOY资讯台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/HOY0.png" group-title="港澳",HOY资讯台
+#EXTINF:-1 tvg-id="A21" tvg-name="HOY资讯台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/HOY1.png" group-title="港澳",HOY资讯台
 http://bziyunshao.synology.me:8891/bysid/78
 #EXTINF:-1 tvg-id="A22" tvg-name="RTHK31" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/RTHK31.png" group-title="港澳",RTHK31
 http://bziyunshao.synology.me:8892/bysid/31
 #EXTINF:-1 tvg-id="A23" tvg-name="RTHK32s" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/RTHK32.png" group-title="港澳",RTHK32
 http://bziyunshao.synology.me:8892/bysid/32
-#EXTINF:-1 tvg-id="A24" tvg-name="澳视澳门" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Aoshi1.png" group-title="港澳",澳视澳门
+#EXTINF:-1 tvg-id="A24" tvg-name="澳视澳门" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/澳视澳门.png" group-title="港澳",澳视澳门
 https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-id="A25" tvg-name="澳视资讯" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Aoshi4.png" group-title="港澳",澳视资讯
+#EXTINF:-1 tvg-id="A25" tvg-name="澳视资讯" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/澳视资讯.png" group-title="港澳",澳视资讯
 http://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-id="A26" tvg-name="纬来体育台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Videoland7.png" group-title="台湾",纬来体育台
+#EXTINF:-1 tvg-id="A26" tvg-name="纬来体育台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/纬来体育.png" group-title="台湾",纬来体育台
 rtmp://f13h.mine.nu/sat/tv721
-#EXTINF:-1 tvg-id="A27" tvg-name="ELTA体育1台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/ELTA4.png" group-title="台湾",ELTA体育1台
+#EXTINF:-1 tvg-id="A27" tvg-name="ELTA体育1台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/ELTA体育1.png" group-title="台湾",ELTA体育1台
 https://stream.freetv.fun/elta-ti-yu--1-2.ctv
-#EXTINF:-1 tvg-id="A28" tvg-name="ELTA体育2台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/ELTA5.png" group-title="台湾",ELTA体育2台
+#EXTINF:-1 tvg-id="A28" tvg-name="ELTA体育2台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/ELTA体育2.png" group-title="台湾",ELTA体育2台
 https://stream.freetv.fun/elta-ti-yu--2-2.ctv
-#EXTINF:-1 tvg-id="A29" tvg-name="ELTA体育3台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/ELTA6.png" group-title="台湾",ELTA体育3台
+#EXTINF:-1 tvg-id="A29" tvg-name="ELTA体育3台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/ELTA体育3.png" group-title="台湾",ELTA体育3台
 http://ali.hlspull.yximgs.com/live/35d5f30ca83f6eefca0f62c28368bb76.flv
-#EXTINF:-1 tvg-id="A130" tvg-name="TVBS" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/ELTA6.png" group-title="台湾",ELTA体育3台
+#EXTINF:-1 tvg-id="A130" tvg-name="TVBS" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVBS.png" group-title="台湾",TVBS
 http://80story.us.to:8073/live.m3u8?c=1
 #EXTINF:-1 tvg-id="A131" tvg-name="TVB新闻台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/ELTA6.png" group-title="台湾",TVBS新闻台
 http://80story.us.to:8073/live.m3u8?c=2
-#EXTINF:-1 tvg-id="A132" tvg-name="东森新闻台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/ELTA6.png" group-title="台湾",东森新闻台
+#EXTINF:-1 tvg-id="A132" tvg-name="东森新闻台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/东森新闻.png" group-title="台湾",东森新闻台
 http://80story.us.to:8073/live.m3u8?c=8
-#EXTINF:-1 tvg-id="A133" tvg-name="民视新闻台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/ELTA6.png" group-title="台湾",民视新闻台
+#EXTINF:-1 tvg-id="A133" tvg-name="民视新闻台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/民视新闻.png" group-title="台湾",民视新闻台
 http://80story.us.to:8073/live.m3u8?c=12
-#EXTINF:-1 tvg-id="A134" tvg-name="三立新闻台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/ELTA6.png" group-title="台湾",三立新闻台
+#EXTINF:-1 tvg-id="A134" tvg-name="三立新闻台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/三立新闻.png" group-title="台湾",三立新闻台
 http://80story.us.to:8073/live.m3u8?c=15
-#EXTINF:-1 tvg-id="A30" tvg-name="中天新闻台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CTI2.png" group-title="台湾",中天新闻台
+#EXTINF:-1 tvg-id="A30" tvg-name="中天新闻台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/中天新闻.png" group-title="台湾",中天新闻台
 http://80story.us.to:8073/live.m3u8?c=4
-#EXTINF:-1 tvg-id="A31" tvg-name="中天亚洲台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CTI3.png" group-title="台湾",中天亚洲台
+#EXTINF:-1 tvg-id="A31" tvg-name="中天亚洲台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/中天亚州.png" group-title="台湾",中天亚洲台
 http://80story.us.to:8073/live.m3u8?c=6
 #EXTINF:-1 tvg-id="A32" tvg-name="中视新闻台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/中视新闻.png" group-title="台湾",中视新闻台
 rtmp://f13h.mine.nu/sat/tv091
-#EXTINF:-1 tvg-id="A70" tvg-name="台视新闻台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TTV2.png" group-title="台湾",台视新闻台
+#EXTINF:-1 tvg-id="A70" tvg-name="台视新闻台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/台视新闻.png" group-title="台湾",台视新闻台
 rtmp://f13h.mine.nu/sat/tv071
 #EXTINF:-1 tvg-id="A33" tvg-name="CCTV-1综合频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV1.png" group-title="央视",CCTV-1综合频道
 http://192.168.2.1:6688/udp/239.77.0.129:5146
@@ -125,7 +125,7 @@ http://192.168.2.1:6688/udp/239.77.0.198:5146
 http://192.168.2.1:6688/udp/239.77.0.174:5146
 #EXTINF:-1 tvg-id="A54" tvg-name="CCTV-8K超高清频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV8K.png" group-title="央视",CCTV-8K超高清
 http://192.168.2.1:6688/udp/239.253.43.106:5146
-#EXTINF:-1 tvg-id="A54" tvg-name="CCTV世界地理高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/世界地理.png" group-title="央视",CCTV世界地理高清
+#EXTINF:-1 tvg-id="A54" tvg-name="CCTV世界地理高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV世界地理.png" group-title="央视",CCTV世界地理高清
 http://192.168.2.1:6688/udp/239.253.43.24:5146
 #EXTINF:-1 tvg-id="A88" tvg-name="风云足球" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/风云足球.png" group-title="央视",CCTV风云足球	
 http://192.168.2.1:6688/udp/239.253.43.14:5146	
@@ -135,13 +135,13 @@ http://192.168.2.1:6688/udp/239.253.43.25:5146
 http://192.168.2.1:6688/udp/239.253.43.26:5146	
 #EXTINF:-1 tvg-id="A91" tvg-name="文化精品" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/文化精品.png" group-title="央视",文化精品
 http://192.168.2.1:6688/udp/239.253.43.27:5146
-#EXTINF:-1 tvg-id="A55" tvg-name="湖南卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Hunan0.png" group-title="卫视",湖南卫视
+#EXTINF:-1 tvg-id="A55" tvg-name="湖南卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/湖南卫视.png" group-title="卫视",湖南卫视
 http://192.168.2.1:6688/udp/239.77.0.127:5146
-#EXTINF:-1 tvg-id="A56" tvg-name="浙江卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/Zhejiang0.png" group-title="卫视",浙江卫视
+#EXTINF:-1 tvg-id="A56" tvg-name="浙江卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/浙江卫视.png" group-title="卫视",浙江卫视
 http://192.168.2.1:6688/udp/239.77.0.89:5146
-#EXTINF:-1 tvg-id="A57" tvg-name="江苏卫视" tvg-logo="https://mirror.ghprox.com/https://github.com/catgorn/TVlogo/blob/main/Jiangsu0.png" group-title="卫视",江苏卫视
+#EXTINF:-1 tvg-id="A57" tvg-name="江苏卫视" tvg-logo="https://mirror.ghprox.com/https://github.com/catgorn/TVlogo/blob/main/江苏卫视.png" group-title="卫视",江苏卫视
 http://192.168.2.1:6688/udp/239.77.0.90:5146
-#EXTINF:-1 tvg-id="A57" tvg-name="北京卫视" tvg-logo="https://mirror.ghprox.com/https://github.com/catgorn/TVlogo/blob/main/Beijing0.png" group-title="卫视",北京卫视
+#EXTINF:-1 tvg-id="A57" tvg-name="北京卫视" tvg-logo="https://mirror.ghprox.com/https://github.com/catgorn/TVlogo/blob/main/北京卫视.png" group-title="卫视",北京卫视
 http://192.168.2.1:6688/udp/239.77.0.91:5146
 #EXTINF:-1 tvg-id="A70" tvg-name="东方卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/东方卫视.png" group-title="卫视",东方卫视	
 http://192.168.2.1:6688/udp/239.77.1.218:5146	
@@ -187,21 +187,21 @@ http://192.168.2.1:6688/udp/239.77.0.27:5146
 https://stream.freetv.fun/6c5de1b8a3d9eb61d0c17626f00388db62642006156eee0b039ea9dd9f11f927.ctv
 #EXTINF:-1 tvg-id="A61" tvg-name="CHC家庭影院" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CHC家庭影院.png" group-title="电影",CHC家庭影院
 http://iptviptv.site:9694/hls/700/index.m3u8
-#EXTINF:-1 tvg-id="A62" tvg-name="美亚电影台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/20230722194138918890_62.png" group-title="电影",美亚电影台
+#EXTINF:-1 tvg-id="A62" tvg-name="美亚电影台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/美亚电影.png" group-title="电影",美亚电影台
 https://tvb.mytvsuper.us.kg/stream/tvb/null-11/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-id="A63" tvg-name="NOW星影台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/now5.png" group-title="电影",NOW星影台
 https://stream1.freetv.fun/now-xing-ying-1.ctv
 #EXTINF:-1 tvg-id="A64" tvg-name="NOW爆谷台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/now4.png" group-title="电影",NOW爆谷台
 https://stream1.freetv.fun/now-bao-gu-1.ctv
-#EXTINF:-1 tvg-id="A65" tvg-name="林正英" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB14.png" group-title="电影",林正英
+#EXTINF:-1 tvg-id="A65" tvg-name="林正英" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/MyTV.png" group-title="电影",林正英
 https://epg.pw/stream/30259fe0c62a1df39306558bc708c149f09092ea7dd815bf49fd3ad3bc6d73be.ctv
-#EXTINF:-1 tvg-id="A66" tvg-name="周星驰" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB14.png" group-title="电影",周星驰
+#EXTINF:-1 tvg-id="A66" tvg-name="周星驰" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/MyTV.png" group-title="电影",周星驰
 https://epg.pw/stream/ac9ef71b361a6e3ba6a5cf6b926b37a88fd0e216bbf540ddacef7d986f05dbfb.ctv
-#EXTINF:-1 tvg-id="A67" tvg-name="李连杰" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB14.png" group-title="电影",李连杰
+#EXTINF:-1 tvg-id="A67" tvg-name="李连杰" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/MyTV.png" group-title="电影",李连杰
 http://zby.xjqxz.top/lljdy/live.m3u8
-#EXTINF:-1 tvg-id="A68" tvg-name="粤语经典" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB14.png" group-title="电影",粤语经典
+#EXTINF:-1 tvg-id="A68" tvg-name="粤语经典" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/MyTV.png" group-title="电影",粤语经典
 https://epg.pw/stream/736d317cbb9b208a3ac9a137d216abdd8bd493b49b2199f5943db224c14994f9.ctv
-#EXTINF:-1 tvg-id="A69" tvg-name="天映频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/typd.png" group-title="电影",天映频道
+#EXTINF:-1 tvg-id="A69" tvg-name="天映频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/天影频道.png" group-title="电影",天映频道
 https://stream1.freetv.fun/amcdian-ying-1.m3u8
-#EXTINF:-1 tvg-id="A152" tvg-name="经典HK电影," tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVB14.png" group-title="电影",经典HK电影
+#EXTINF:-1 tvg-id="A152" tvg-name="经典HK电影," tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/MyTV.png" group-title="电影",经典HK电影
 http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5100180869/150/01.m3u8?&HlsSubType=&encrypt=
