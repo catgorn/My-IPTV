@@ -189,9 +189,9 @@ https://stream.freetv.fun/6c5de1b8a3d9eb61d0c17626f00388db62642006156eee0b039ea9
 http://iptviptv.site:9694/hls/700/index.m3u8
 #EXTINF:-1 tvg-id="A62" tvg-name="美亚电影台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/美亚电影.png" group-title="电影",美亚电影台
 https://tvb.mytvsuper.us.kg/stream/tvb/null-11/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 tvg-id="A63" tvg-name="NOW星影台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/now5.png" group-title="电影",NOW星影台
+#EXTINF:-1 tvg-id="A63" tvg-name="NOW星影台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/now星影.png" group-title="电影",NOW星影台
 https://stream1.freetv.fun/now-xing-ying-1.ctv
-#EXTINF:-1 tvg-id="A64" tvg-name="NOW爆谷台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/now4.png" group-title="电影",NOW爆谷台
+#EXTINF:-1 tvg-id="A64" tvg-name="NOW爆谷台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/now爆谷.png" group-title="电影",NOW爆谷台
 https://stream1.freetv.fun/now-bao-gu-1.ctv
 #EXTINF:-1 tvg-id="A65" tvg-name="林正英" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/MyTV.png" group-title="电影",林正英
 https://epg.pw/stream/30259fe0c62a1df39306558bc708c149f09092ea7dd815bf49fd3ad3bc6d73be.ctv
