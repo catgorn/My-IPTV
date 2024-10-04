@@ -72,7 +72,7 @@ http://80story.us.to:8073/live.m3u8?c=8
 #EXTINF:-1 tvg-id="A133" tvg-name="民视新闻台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/民视新闻.png" group-title="台湾",民视新闻台
 http://80story.us.to:8073/live.m3u8?c=12
 #EXTINF:-1 tvg-id="A134" tvg-name="三立新闻台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/三立新闻.png" group-title="台湾",三立新闻台
-http://80story.us.to:8073/live.m3u8?c=15
+http://211.72.65.236:8543/.m3u8
 #EXTINF:-1 tvg-id="A30" tvg-name="中天新闻台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/中天新闻.png" group-title="台湾",中天新闻台
 http://80story.us.to:8073/live.m3u8?c=4
 #EXTINF:-1 tvg-id="A31" tvg-name="中天亚洲台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/中天亚州.png" group-title="台湾",中天亚洲台
