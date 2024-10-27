@@ -34,11 +34,11 @@ http://bziyunshao.synology.me:8890/bysid/83
 #EXTINF:-1 tvg-id="A14" tvg-name="TVB财经体育资讯台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/无线财经娱乐.png" group-title="港澳",TVB财经体育资讯台
 http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="A15" tvg-name="凤凰卫视中文台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/凤凰中文.png" group-title="港澳",凤凰卫视中文台
-http://183.151.16.91:4022/rtp/233.50.202.35:5140
+http://223.105.252.59/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 tvg-id="A16" tvg-name="凤凰卫视资讯台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/凤凰资讯.png" group-title="港澳",凤凰卫视资讯台
-http://183.151.16.91:4022/rtp/233.50.202.36:5140
+http://223.105.252.59/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 tvg-id="A17" tvg-name="凤凰卫视香港台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/凤凰香港.png" group-title="港澳",凤凰卫视香港台
-http://bziyunshao.synology.me:8890/bysid/85
+http://223.105.252.59/PLTV/3/224/3221228530/index.m3u8
 #EXTINF:-1 tvg-id="A18" tvg-name="viutv" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/viutv.png" group-title="港澳",viutv
 http://bziyunshao.synology.me:8889/bysid/99
 #EXTINF:-1 tvg-id="A19" tvg-name="HOYTV" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/HOY2.png" group-title="港澳",HOYTV
