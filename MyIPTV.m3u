@@ -10,7 +10,7 @@ http://192.168.2.1:6688/udp/239.77.0.215:5146
 #EXTINF:-1 tvg-id="A094" tvg-name="深圳卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/深圳卫视.png" group-title="广东",深圳卫视
 http://192.168.2.1:6688/udp/239.77.0.130:5146
 #EXTINF:-1 tvg-id="A03" tvg-name="TVB高清翡翠台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/翡翠台.png" group-title="港澳",TVB高清翡翠台
-https://tvb.mytvsuper.us.kg/stream/tvb/4k/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 #EXTINF:-1 tvg-id="A04" tvg-name="TVB翡翠台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/翡翠台.png" group-title="港澳",TVB翡翠台
 http://bziyunshao.synology.me:8889/bysid/1
 #EXTINF:-1 tvg-id="A05" tvg-name="TVB翡翠华丽台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/MyTV.png" group-title="港澳",TVB翡翠华丽台
