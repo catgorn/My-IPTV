@@ -30,7 +30,7 @@ http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="A12" tvg-name="TVB功夫台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/无线功夫.png" group-title="港澳",TVB功夫台
 https://epg.pw/stream/26483cb6bba6622ac7668f90447549c7e5f972c57a136b95f0f1db38e5bfae35.m3u8
 #EXTINF:-1 tvg-id="A13" tvg-name="TVB无线新闻台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/无线新闻.png" group-title="港澳",TVB无线新闻台
-http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=807
+https://stream1.freetv.fun/b1feaaf52b422e940f5a234a921e8bf90bcd32a6678ec37f2393350c6c5de45c.ctv
 #EXTINF:-1 tvg-id="A14" tvg-name="TVB财经体育资讯台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/无线财经娱乐.png" group-title="港澳",TVB财经体育资讯台
 http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=802
 #EXTINF:-1 tvg-id="A15" tvg-name="凤凰卫视中文台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/凤凰中文.png" group-title="港澳",凤凰卫视中文台
@@ -56,7 +56,7 @@ https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-id="A25" tvg-name="澳视资讯" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/澳视资讯.png" group-title="港澳",澳视资讯
 http://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-id="A26" tvg-name="纬来体育台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/纬来体育.png" group-title="台湾",纬来体育台
-rtmp://f13h.mine.nu/sat/tv721
+rtmp://f13h.mine.nu:1935/sat/tv721
 #EXTINF:-1 tvg-id="A27" tvg-name="ELTA体育1台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/ELTA体育1.png" group-title="台湾",ELTA体育1台
 https://stream.freetv.fun/elta-ti-yu--1-2.ctv
 #EXTINF:-1 tvg-id="A28" tvg-name="ELTA体育2台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/ELTA体育2.png" group-title="台湾",ELTA体育2台
@@ -66,11 +66,11 @@ http://ali.hlspull.yximgs.com/live/35d5f30ca83f6eefca0f62c28368bb76.flv
 #EXTINF:-1 tvg-id="A130" tvg-name="TVBS" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVBS.png" group-title="台湾",TVBS
 http://80story.us.to:8073/live.m3u8?c=1
 #EXTINF:-1 tvg-id="A131" tvg-name="TVB新闻台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/TVBS新闻.png" group-title="台湾",TVBS新闻台
-http://80story.us.to:8073/live.m3u8?c=2
+https://stream1.freetv.fun/38e422e8760b731a44f2edf723aad66e82223336f5a8b4cd23a345e02a089165.m3u8
 #EXTINF:-1 tvg-id="A132" tvg-name="东森新闻台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/东森新闻.png" group-title="台湾",东森新闻台
 http://80story.us.to:8073/live.m3u8?c=8
 #EXTINF:-1 tvg-id="A133" tvg-name="民视新闻台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/民视新闻.png" group-title="台湾",民视新闻台
-http://80story.us.to:8073/live.m3u8?c=12
+rtmp://f13h.mine.nu:1935/sat/tv051
 #EXTINF:-1 tvg-id="A134" tvg-name="三立新闻台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/三立新闻.png" group-title="台湾",三立新闻台
 http://211.72.65.236:8543/.m3u8
 #EXTINF:-1 tvg-id="A30" tvg-name="中天新闻台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/中天新闻.png" group-title="台湾",中天新闻台
@@ -78,9 +78,9 @@ http://80story.us.to:8073/live.m3u8?c=4
 #EXTINF:-1 tvg-id="A31" tvg-name="中天亚洲台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/中天亚州.png" group-title="台湾",中天亚洲台
 http://80story.us.to:8073/live.m3u8?c=6
 #EXTINF:-1 tvg-id="A32" tvg-name="中视新闻台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/中视新闻.png" group-title="台湾",中视新闻台
-rtmp://f13h.mine.nu/sat/tv091
+rtmp://f13h.mine.nu:1935/sat/tv091
 #EXTINF:-1 tvg-id="A70" tvg-name="台视新闻台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/台视新闻.png" group-title="台湾",台视新闻台
-rtmp://f13h.mine.nu/sat/tv071
+rtmp://f13h.mine.nu:1935/sat/tv071
 #EXTINF:-1 tvg-id="A33" tvg-name="CCTV-1综合频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV1.png" group-title="央视",CCTV-1综合频道
 http://192.168.2.1:6688/udp/239.77.0.129:5146
 #EXTINF:-1 tvg-id="A34" tvg-name="CCTV-2财经频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV2.png" group-title="央视",CCTV-2财经频道
@@ -190,9 +190,9 @@ http://iptviptv.site:9694/hls/700/index.m3u8
 #EXTINF:-1 tvg-id="A62" tvg-name="美亚电影台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/美亚电影.png" group-title="电影",美亚电影台
 http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=862
 #EXTINF:-1 tvg-id="A63" tvg-name="NOW星影台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/now星影.png" group-title="电影",NOW星影台
-http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=881
+https://stream1.freetv.fun/bc97521e6ecfc495f5bf5ea0d3aea354504f294d77d1409aef7ffb493c651234.m3u8
 #EXTINF:-1 tvg-id="A64" tvg-name="NOW爆谷台" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/now爆谷.png" group-title="电影",NOW爆谷台
-http://oxtvs.com/ott/?q=c642c3aa36f291b8dd1dccb47b50a229&id=880
+https://stream1.freetv.fun/bc97521e6ecfc495f5bf5ea0d3aea354504f294d77d1409aef7ffb493c651234.m3u8
 #EXTINF:-1 tvg-id="A65" tvg-name="林正英" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/MyTV.png" group-title="电影",林正英
 https://epg.pw/stream/30259fe0c62a1df39306558bc708c149f09092ea7dd815bf49fd3ad3bc6d73be.ctv
 #EXTINF:-1 tvg-id="A66" tvg-name="周星驰" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/MyTV.png" group-title="电影",周星驰
