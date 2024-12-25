@@ -118,7 +118,7 @@ http://192.168.2.1:6688/udp/239.77.1.161:5146
 #EXTINF:-1 tvg-id="A50" tvg-name="CCTV-15音乐频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV15.png" group-title="央视",CCTV-15音乐频道
 http://192.168.2.1:6688/udp/239.77.1.239:5146
 #EXTINF:-1 tvg-id="A51" tvg-name="CCTV-16奥林匹克频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV16.png" group-title="央视",CCTV-16奥林匹克频道
-http://192.168.2.1:6688/udp/239.77.1.98:5146
+http://192.168.2.1:6688/239.77.1.76:5146
 #EXTINF:-1 tvg-id="A52" tvg-name="CCTV-17农村农业频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV17.png" group-title="央视",CCTV-17农村农业
 http://192.168.2.1:6688/udp/239.77.0.198:5146
 #EXTINF:-1 tvg-id="A53" tvg-name="CCTV-4K超高清频道" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/CCTV4K.png" group-title="央视",CCTV-4K超高清
@@ -136,7 +136,7 @@ http://192.168.2.1:6688/udp/239.253.43.26:5146
 #EXTINF:-1 tvg-id="A91" tvg-name="文化精品" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/文化精品.png" group-title="央视",文化精品
 http://192.168.2.1:6688/udp/239.253.43.27:5146
 #EXTINF:-1 tvg-id="A55" tvg-name="湖南卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/湖南卫视.png" group-title="卫视",湖南卫视
-http://192.168.2.1:6688/udp/239.77.0.127:5146
+http://192.168.2.1:6688/udp/239.77.1.5:5146
 #EXTINF:-1 tvg-id="A56" tvg-name="浙江卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/catgorn/TVlogo/blob/main/浙江卫视.png" group-title="卫视",浙江卫视
 http://192.168.2.1:6688/udp/239.77.0.89:5146
 #EXTINF:-1 tvg-id="A57" tvg-name="江苏卫视" tvg-logo="https://mirror.ghprox.com/https://github.com/catgorn/TVlogo/blob/main/江苏卫视.png" group-title="卫视",江苏卫视
